@@ -23,4 +23,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/LearningNumbers/Scenes/Level_4.unity
     guid: cf828879fb209a14b983f5d1b04be1e3
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 800f0051e168a564d94f2c18f364580c, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: b0253a4e88b71e64884959c5c753da3e, type: 2}
